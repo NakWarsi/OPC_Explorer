@@ -8,4 +8,4 @@
   
  step2 >> pip3 install cryptography
  
- #now you are all set to eun the code and understand the very basics of OPC UA
+ #now you are all set to run the code and understand the very basics of OPC UA
